@@ -1,0 +1,14 @@
+{
+	"name": "com.namnh.texture-packer-importer",
+	"version": "0.0.1",
+	"displayName": "Texture Packer Importer",
+	"unity": "2018.1",
+	"description": "Texture Packer Importer For Unity (WIP By 1B-NamNH)",
+	"keywords": ["texture packer", "texture packer editor"],
+	"category": "editor",
+	"author": {
+		"name": "NamNH-1B"
+	},
+	"dependencies": {
+	}
+}

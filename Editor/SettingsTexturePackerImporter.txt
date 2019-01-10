@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/NHNFramework/Textures/loading_atlas.tpsheet
+textureFileNames:
+- Assets/NHNFramework/Textures/loading_atlas.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
