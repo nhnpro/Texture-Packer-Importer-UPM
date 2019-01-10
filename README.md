@@ -1,15 +1,15 @@
-# UPM Package For Texture-Packer-Importer
+# UPM Package For Encryption And Zip
 
 Make By 1B (nhnpro.nguyenhoang@gmail.com) for personal Projects
 
 #How To Import:
-
+- Must add manually this file ..\Assets\codeandweb.com\Editor\SettingsTexturePackerImporter.txt
 -Add this to Package Manifest.json
 
 {  
   "dependencies": {
 		...
-		"com.namnh.texture-packer-importer": "https://github.com/nhnpro/Texture-Packer-Importer-UPM.git#0.0.1",
+		"com.namnh.encryption-and-zip-unity": "https://github.com/nhnpro/Encryption-And-Zip-UPM.git#0.0.1",
 		...
 	}
 }
